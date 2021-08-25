@@ -1,0 +1,2 @@
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\UI\obj\Debug\UI.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\UI\obj\Debug\UI.csproj.CoreCompileInputs.cache

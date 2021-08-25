@@ -1,0 +1,73 @@
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\BE.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DS.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\DAL\obj\Debug\DAL.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\DS.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\bin\Debug\DS.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\obj\Debug\DAL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\obj\Debug\DAL.csproj.CopyComplete
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\obj\Debug\DAL.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\DAL\obj\Debug\DAL.pdb

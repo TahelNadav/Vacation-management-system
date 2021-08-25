@@ -1,0 +1,51 @@
+﻿<Window x:Class="PLWPF.AddOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="הוספת הזמנה" Height="450" Width="400">
+    <Window.Resources>
+        <DataTemplate x:Key="HuTemplete"  DataType="HostingUnit">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                
+                <TextBlock Grid.Column="0" Text="{Binding Path=HostingUnitName}" FlowDirection="RightToLeft"/>
+                <TextBlock Grid.Column="1" Text=":שם היחידה" FlowDirection="RightToLeft"/>
+            </Grid>
+        </DataTemplate>
+        <DataTemplate x:Key="GrTemplete"  DataType="HostingUnit">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="{Binding Path=GuestRequestKey}" FlowDirection="RightToLeft" />
+                <TextBlock Grid.Column="1" Text=":מספר דרישת לקוח" FlowDirection="RightToLeft" />
+
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="image/background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Grid Margin="35,55,37.6,28" HorizontalAlignment="Center" VerticalAlignment="Center" >
+            <Label Content="בחר דרישת לקוח" HorizontalContentAlignment="Center" Margin="0,0,11,299"/>
+            <Label Content="בחר יחדת אירוח" Margin="10,83,9.6,212.8" HorizontalContentAlignment="Center" />
+            <ComboBox Name="GR_ComboBox"   ItemTemplate="{StaticResource GrTemplete}" Margin="56,39,65,271.8"/>
+            <ComboBox Name="HU_ComboBox" HorizontalAlignment="Left" Margin="56,129,0,0" VerticalAlignment="Top" Width="170" ItemTemplate="{StaticResource HuTemplete}" Height="26"/>
+            <Button x:Name="sendMail_Button" Background="#FFEEEBE0" Content="שלח הצעה ללקוח"  Click="sendMail_Button_Click" IsEnabled="False" Margin="79,286,90.4,24.8" />
+            <Button x:Name="chek_Button" Background="#FFEEEBE0" Content="בדוק התאמה" Margin="101,190,107.4,119.8"  Click="chek_Button_Click" />
+            <Button x:Name="addOrder_Button" Background="#FFEEEBE0" Content="הוספת הזמנה למערכת"  Margin="78,236,90.2,73.8"  Click="addOrder_Button_Click" IsEnabled="False"/>
+
+        </Grid>
+    </Grid>
+</Window>

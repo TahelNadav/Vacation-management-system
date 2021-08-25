@@ -1,0 +1,3 @@
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\BL\obj\Debug\BL.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache

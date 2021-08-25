@@ -1,0 +1,380 @@
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addOrder.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\removeHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateOrder.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addOrder.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateOrder.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\removeHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\changeFee.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\changePassword.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addHU.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\addOrder.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\removeHU.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateHU.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\updateOrder.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tahel\Downloads\Project01_4250_6612_dotNet5780 (11)\Project01_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\User\Desktop\לוסטינג\מיני פרויקט מערכת חלונות\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.dll
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.dll
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\BL.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\bin\Debug\DS.pdb
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\App.g.cs
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddGR.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddHU.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Host.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\Order.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\Project02_4250_6612_dotNet5780\PLWPF\obj\Debug\PLWPF.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\PLWPF.exe.config
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\PLWPF.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\BE.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\BL.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\DAL.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\DS.dll
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\BE.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\BL.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\DAL.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\bin\Debug\DS.pdb
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.csprojAssemblyReference.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddGR.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddHU.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddOrder.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\ChangeFee.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\ChangePassword.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\GuestRequest.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\Host.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\HostingUnit.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\MainWindow.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\Order.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\RemoveHU.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\UpdateHU.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\UpdateOrder.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\App.g.cs
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF_MarkupCompile.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF_MarkupCompile.lref
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddGR.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddHU.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\AddOrder.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\ChangeFee.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\ChangePassword.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\GuestRequest.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\Host.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\HostingUnit.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\MainWindow.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\Order.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\RemoveHU.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\UpdateHU.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\UpdateOrder.baml
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.g.resources
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.Properties.Resources.resources
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.csproj.GenerateResource.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.csproj.CoreCompileInputs.cache
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.csproj.CopyComplete
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.exe
+C:\Users\tahel\Desktop\degree\projects\פרויקט נופש\PLWPF\obj\Debug\PLWPF.pdb

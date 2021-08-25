@@ -1,0 +1,76 @@
+﻿<Window x:Class="PLWPF.GuestRequest"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="בקשת אירוח" Height="450" Width="1000">
+    <Window.Background>
+        <ImageBrush ImageSource="image/background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="100" />
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+        <ListView x:Name="GR_ListView"  HorizontalAlignment="Center"  VerticalAlignment="Center"  Grid.Row="1" Margin="52,24,53.6,26" Height="270">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Header="סטטוס " DisplayMemberBinding="{Binding Status}" Width="45"/>
+                    <GridViewColumn Header="תאריך יציאה " DisplayMemberBinding="{Binding ReleaseDate,StringFormat=d}" Width="90"/>
+                    <GridViewColumn Header="תאריך כניסה " DisplayMemberBinding="{Binding EntryDate,StringFormat=d}" Width="90"/>
+                    <GridViewColumn Header="אטרקציות לילדים" DisplayMemberBinding="{Binding ChildrensAttractions }" Width="100"/>
+                    <GridViewColumn Header="בריכה" DisplayMemberBinding="{Binding Pool}" Width="50"/>
+                    <GridViewColumn Header="סוג" DisplayMemberBinding="{Binding Type}" Width="40"/>
+                    <GridViewColumn Header="אזור" DisplayMemberBinding="{Binding Area}" Width="40"/>
+                    <GridViewColumn Header="מס ילדים " DisplayMemberBinding="{Binding Children}" Width="70"/>
+                    <GridViewColumn Header="מס מבוגרים " DisplayMemberBinding="{Binding Adults}" Width="70"/>
+                    <GridViewColumn Header="כתובת מייל " DisplayMemberBinding="{Binding MailAddress}" Width="70"/>
+                    <GridViewColumn Header="שם משפחה" DisplayMemberBinding="{Binding FamilyName }" Width="70"/>
+                    <GridViewColumn Header="שם פרטי" DisplayMemberBinding="{Binding PrivateName}" Width="70"/>
+                    <GridViewColumn Header="מס בקשה" DisplayMemberBinding="{Binding GuestRequestKey }"  Width="80" FrameworkElement.FlowDirection="RightToLeft"/>
+
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Grid ShowGridLines="False" Grid.Row="0"  VerticalAlignment="Center" HorizontalAlignment="Center" Margin="208,26,53.6,0" Width="732" >
+            <Grid.ColumnDefinitions>
+
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition Height="40"/>
+            </Grid.RowDefinitions>
+            <Label  Grid.Row="0" Grid.Column="6" Content="מיין לפי" Height="26" Margin="10,4,9.8,4.4" HorizontalContentAlignment="Center"/>
+            <Label Grid.Row="0" Content="שם משפחה" Margin="10,4,10.2,0.4" Grid.ColumnSpan="2" HorizontalContentAlignment="Center"/>
+            <Label Grid.Row="0" Grid.Column="4" Content="אזור"  Height="26" HorizontalContentAlignment="Center" Margin="16.2,4,15.4,4.4"/>
+            <Label Grid.Row="0" Grid.Column="3" Content="סוג" Height="26" HorizontalContentAlignment="Center" Margin="10,4,9.8,4.4"/>
+            <Label Grid.Row="0" Grid.Column="2" Content="בריכה" Height="26" Margin="9.8,4,10,4.4" HorizontalContentAlignment="Center"/>
+
+            <Label Grid.Row="0" Grid.Column="5" Content="סטטוס " Height="26" Margin="9.6,4,20,4.4" HorizontalContentAlignment="Center">
+                <Label.Background>
+                    <ImageBrush/>
+                </Label.Background>
+            </Label>
+            <TextBox x:Name="FamilyName_TextBox" Grid.Row="1" Grid.Column="1" Height="23" Margin="9.4,7.6,24.2,9.4"/>
+            <ComboBox  x:Name="Area_ComboBox" Grid.Row="1" Grid.Column="4" Width="74" Height="22" SelectionChanged="Area_ComboBox_SelectionChanged" />
+            <ComboBox x:Name="Type_ComboBox" Grid.Row="1" Grid.Column="3" Width="63" Height="22" SelectionChanged="Type_ComboBox_SelectionChanged"/>
+            <ComboBox x:Name="Pool_ComboBox" Grid.Row="1" Grid.Column="2" Width="70"  Height="22" SelectionChanged="Pool_ComboBox_SelectionChanged"/>
+
+            <ComboBox x:Name="Status_ComboBox" Grid.Row="1" Grid.Column="5" Height="22" Margin="10,9,20,9" SelectionChanged="Status_ComboBox_SelectionChanged" />
+            <Button x:Name="FM_Button" Content="חפש" HorizontalAlignment="Left" Height="24" Margin="29,7.6,0,0" VerticalAlignment="Top" Width="73" Grid.Row="1" Click="FM_Button_Click" Background="#FFEEEBE0"/>
+        </Grid>
+        <Button x:Name="Exit_Button" Grid.Row="0" Content="יציאה" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="75" Click="Exit_Button_Click" Height="19" Background="#FFEEEBE0"/>
+        <Button x:Name="Clear_Button" Grid.Row="0" Content="איפוס" HorizontalAlignment="Left" Margin="105,69,0,0" VerticalAlignment="Top" Height="23" Width="71" Click="Clear_Button_Click" Background="#FFEEEBE0"/>
+
+
+    </Grid>
+</Window>

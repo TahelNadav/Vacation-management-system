@@ -1,0 +1,34 @@
+﻿<Window x:Class="PLWPF.UpdateOrder"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PLWPF"
+        mc:Ignorable="d"
+        Title="עדכון הזמנה" Height="450" Width="400">
+    <Window.Resources>
+        <DataTemplate x:Key="OrTemplete"  DataType="Order">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="*"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="1" Text=":מספר הזמנה"/>
+                <TextBlock Grid.Column="0" Text="{Binding Path=OrderKey}"/>
+
+            </Grid>
+        </DataTemplate>
+    </Window.Resources>
+    <Window.Background>
+        <ImageBrush ImageSource="image/background.jpg"/>
+    </Window.Background>
+    <Grid >
+        <Grid Margin="60,64,68.6,70" HorizontalAlignment="Center" VerticalAlignment="Center" Width="265" Height="286" >
+            <ComboBox Name="Order_ComboBox"   ItemTemplate="{StaticResource OrTemplete}" Margin="37,79,39,180"/>
+            <ComboBox  Name="Status_ComboBox" Margin="37,178,39.2,73" />
+            <Label Content="בחר הזמנה לעדכון" HorizontalContentAlignment="Center" Margin="0,20,0,226"/>
+            <Label Content="עדכן סטטוס" HorizontalContentAlignment="Center" Margin="0,128,0,116" />
+            <Button  Name="Update_Button"  Background="#FFDAEAE9" FontSize="15" Content="עדכן"  Click="Update_Button_Click" Margin="69,248,68,10"/>
+        </Grid>
+    </Grid>
+</Window>
